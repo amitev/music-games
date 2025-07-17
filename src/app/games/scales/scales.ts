@@ -1,7 +1,7 @@
 import { Component } from '@angular/core';
 
 @Component({
-  selector: 'app-scales',
+  selector: 'scales',
   imports: [],
   templateUrl: './scales.html',
   styleUrl: './scales.css'
